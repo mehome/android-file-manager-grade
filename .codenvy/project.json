@@ -1,0 +1,1 @@
+{"builders":{"configs":{}},"mixinTypes":[],"runners":{"configs":{"project://gradle":{"ram":2048,"variables":{},"options":{}}},"default":"project:/gradle"},"description":"course1","type":"php","attributes":{"language":["php"]}}

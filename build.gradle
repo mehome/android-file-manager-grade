@@ -1,0 +1,26 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.13.+'
+    }
+}
+
+apply plugin: 'android'
+
+android {
+    buildToolsVersion "20.0.0"
+    compileSdkVersion 17
+  
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 17
+      
+      lintOptions {
+        // set to true to turn off analysis progress reporting by lint
+        abortOnError false
+      }
+    }
+    }

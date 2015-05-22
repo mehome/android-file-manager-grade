@@ -1,0 +1,14 @@
+=========================
+	WELCOME TO CODENVY!
+=========================
+
+How to use this Factory:
+
+1. Run the project (Run button or in Run menu)
+2. Wait for the project to build
+3. When you see the application URL in the Runner tab, click it.
+4. You will find yourself in a gray screen. Right click to call a context menu.
+5. Launch Android Emulator. Be patient, it will take a while
+6. Once done, right click again to call a context menu and choose Install apk
+7. Go back to the emulator, and call the App menu to find Open Manage application.
+8. Enjoy it!
